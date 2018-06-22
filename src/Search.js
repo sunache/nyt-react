@@ -31,7 +31,8 @@ const styles = theme => ({
   },
   avatar: {
     backgroundColor: red[500]
-  }
+  },
+  
 });
 
 class Search extends React.Component {
